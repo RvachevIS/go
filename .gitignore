@@ -1,0 +1,5 @@
+/bin
+/go.mod
+/go.sum
+/pkg
+/rest_serv_golang
